@@ -1,0 +1,56 @@
+$font-stack: 'Roboto Mono', sans-serif;
+$primary-color: #F7F5F0;
+$back-color: #52361E;
+$lightback-color: #F1E7D1;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  height: 100%;
+  margin: auto;
+  background-color: $back-color;
+}
+
+hr{
+    background-color: $lightback-color;
+}
+
+.home {
+  text-align: center;
+  background-color: $back-color; 
+}
+
+.logo-home{
+  max-width: 65%;
+}
+
+.cinque-sensi-logo{
+	background-color: $back-color;
+	border-bottom: $primary-color;
+}
+
+.footer{
+    margin: 1em auto;
+    color: $lightback-color;
+}
+
+a:link, a:hover, a:visited, a:active{
+  color: $lightback-color;
+} 
+
+.bg-menu-5s{
+  background-color: $back-color; 
+  text-align: center;
+}
+
+.cardos{
+  margin: 1em;
+  background-color: $back-color;
+  border: 0px;
+}
+
+.cardos-text{
+  background-color: $back-color;
+  color: $lightback-color;
+}
+
