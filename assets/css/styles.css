@@ -1,0 +1,21 @@
+body { font: 100% "Roboto Mono", sans-serif; color: #F7F5F0; height: 100%; margin: auto; background-color: #52361E; }
+
+hr { background-color: #F1E7D1; }
+
+.home { text-align: center; background-color: #52361E; }
+
+.logo-home { max-width: 65%; }
+
+.cinque-sensi-logo { background-color: #52361E; border-bottom: #F7F5F0; }
+
+.footer { margin: 1em auto; color: #F1E7D1; }
+
+a:link, a:hover, a:visited, a:active { color: #F1E7D1; }
+
+.bg-menu-5s { background-color: #52361E; text-align: center; }
+
+.cardos { margin: 1em; background-color: #52361E; border: 0px; }
+
+.cardos-text { background-color: #52361E; color: #F1E7D1; }
+
+/*# sourceMappingURL=styles.css.map */
