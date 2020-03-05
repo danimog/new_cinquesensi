@@ -1,21 +1,41 @@
-body { font: 100% "Roboto Mono", sans-serif; color: #F7F5F0; height: 100%; margin: auto; background-color: #52361E; }
+/*$back-color: #52361E;*/
+body {
+  font: 100% "Roboto Mono", sans-serif;
+  color: #F7F5F0;
+  height: 100%;
+  margin: auto;
+  background-color: #422B15; }
 
-hr { background-color: #F1E7D1; }
+hr {
+  background-color: #F1E7D1; }
 
-.home { text-align: center; background-color: #52361E; }
+.home {
+  text-align: center;
+  background-color: #422B15; }
 
-.logo-home { max-width: 65%; }
+.logo-home {
+  max-width: 65%; }
 
-.cinque-sensi-logo { background-color: #52361E; border-bottom: #F7F5F0; }
+.cinque-sensi-logo {
+  background-color: #422B15;
+  border-bottom: #F7F5F0; }
 
-.footer { margin: 1em auto; color: #F1E7D1; }
+.footer {
+  margin: 1em auto;
+  color: #F1E7D1; }
 
-a:link, a:hover, a:visited, a:active { color: #F1E7D1; }
+a:link, a:hover, a:visited, a:active {
+  color: #F1E7D1; }
 
-.bg-menu-5s { background-color: #52361E; text-align: center; }
+.bg-menu-5s {
+  background-color: #422B15;
+  text-align: center; }
 
-.cardos { margin: 1em; background-color: #52361E; border: 0px; }
+.cardos {
+  margin: 1em;
+  background-color: #422B15;
+  border: 0px; }
 
-.cardos-text { background-color: #52361E; color: #F1E7D1; }
-
-/*# sourceMappingURL=styles.css.map */
+.cardos-text {
+  background-color: #422B15;
+  color: #F1E7D1; }
