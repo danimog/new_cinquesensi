@@ -13,6 +13,10 @@ hr {
   text-align: center;
   background-color: #422B15; }
 
+.container-extralarge {
+  max-width: 1320px;
+  margin: 0 auto; }
+
 .logo-home {
   max-width: 65%; }
 
